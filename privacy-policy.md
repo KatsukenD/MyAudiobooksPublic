@@ -28,4 +28,4 @@ Users are solely responsible for the content they load into MyAudiobooks. The de
 6. Contact
 
 If you have any questions about this policy, you may contact the developer at:
-[Insert your email or contact method]
+katsukend@g1mp.net
